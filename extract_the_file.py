@@ -1,7 +1,7 @@
 import requests
 import csv
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "My_GITHUB_Token"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def get_users_in_basel():
